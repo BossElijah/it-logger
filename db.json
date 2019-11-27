@@ -1,0 +1,59 @@
+{
+  "logs": [
+    {
+      "message": "This is a log",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-11-28T19:20:39.010Z",
+      "id": 1
+    },
+    {
+      "message": "This server is down",
+      "attention": true,
+      "tech": "Greg Harris",
+      "date": "2019-11-28T19:20:52.679Z",
+      "id": 2
+    },
+    {
+      "message": "This server is up and running again",
+      "attention": false,
+      "tech": "Sara Willson",
+      "date": "2019-11-28T19:21:08.710Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "This is log number 4 ATTENTION NEEDED QUICKLY!!!",
+      "attention": true,
+      "tech": "Greg Harris",
+      "date": "2019-12-01T10:59:29.983Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 1
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "id": 2
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Willson",
+      "id": 3
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Johnson",
+      "id": 4
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Harris",
+      "id": 5
+    }
+  ]
+}
